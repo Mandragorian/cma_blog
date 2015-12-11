@@ -1,0 +1,3 @@
+*.pyc
+./cma/__pycache__/
+cmavenv/
